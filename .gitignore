@@ -27,6 +27,7 @@ mono_crash*
 
 # Visual Studio cache directory
 .vs/
+.vscode/
 .vsconfig/
 .idea/
 
